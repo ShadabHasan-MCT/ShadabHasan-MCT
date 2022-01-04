@@ -1,4 +1,4 @@
-### Hi there, I'm Vinay!
+### Hi there, I'm Shadab!
 
 ## I'm a Software Developer!
 - 🔭 I’m currently working on few banking softwares!
